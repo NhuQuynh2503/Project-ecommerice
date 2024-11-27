@@ -1,0 +1,123 @@
+{
+  "productItems": [
+    {
+      "id": "1",
+      "discount": 50,
+      "cover": "./images/flash/flash-1.png",
+      "name": "Shoes",
+      "price": 100
+    },
+    {
+      "id": "2",
+      "discount": 40,
+      "cover": "./images/flash/flash-2.png",
+      "name": "Watch",
+      "price": 20
+    },
+    {
+      "id": "3",
+      "discount": 40,
+      "cover": "./images/flash/flash-3.png",
+      "name": "Smart Mobile Black",
+      "price": 200
+    },
+    {
+      "id": "4",
+      "discount": 40,
+      "cover": "./images/flash/flash-4.png",
+      "name": "Smart Watch Black",
+      "price": 50
+    },
+    {
+      "id": "5",
+      "discount": 50,
+      "cover": "./images/flash/flash-1.png",
+      "name": "Shoes",
+      "price": 100
+    },
+    {
+      "id": "6",
+      "discount": 50,
+      "cover": "./images/flash/flash-3.png",
+      "name": "Shoes",
+      "price": 100
+    }
+  ],
+  "slider": [
+    {
+      "id": "1",
+      "title": "50% Off For Your First Shopping",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      "cover": "./images/SliderCard/slide-1.png"
+    },
+    {
+      "id": "2",
+      "title": "50% Off For Your First Shopping",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      "cover": "./images/SliderCard/slide-2.png"
+    },
+    {
+      "id": "3",
+      "title": "50% Off For Your First Shopping",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      "cover": "./images/SliderCard/slide-3.png"
+    },
+    {
+      "id": "4",
+      "title": "50% Off For Your First Shopping",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      "cover": "./images/SliderCard/slide-4.png"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Nguyen Thi A",
+      "email": "nguyenthia@gmail.com",
+      "password": "nguyenthia",
+      "token": "bkP9VQydMBRmW67obqD7"
+    },
+    {
+      "id": "2",
+      "fullName": "Do Thi B",
+      "email": "dothib@gmail.com",
+      "password": "dothib",
+      "token": "KsZitkpwbbPF3fdjbQWh"
+    },
+    {
+      "id": "3",
+      "fullName": "Ngo Van C",
+      "email": "ngovanc@gmail.com",
+      "password": "ngovanc",
+      "token": "abVy7NJdWVNgqGcCD9Lo"
+    },
+    {
+      "id": "4",
+      "fullName": "Le Van D",
+      "email": "levand@gmail.com",
+      "password": "levand",
+      "token": "tq7nF9XpG3wUnr1U76P5"
+    },
+    {
+      "id": "5",
+      "fullName": "Nguyen Thi E",
+      "email": "nguyenthie@gmail.com",
+      "password": "nguyenthie",
+      "token": "NU2pOY2SHfNXYdeoPuTO"
+    },
+    {
+      "id": "6fde",
+      "fullName": "Nguyễn Thị R",
+      "email": "nguyenthir@gmail.com",
+      "password": "nguyenthir",
+      "token": "jPUm3Hk2IctRI8QqAz8n"
+    },
+    {
+      "id": "7897",
+      "fullName": "nguyenlinhdan",
+      "email": "linhdan@gmail.com",
+      "password": "nguyenlinhdan",
+      "token": "NoqwoWfGjKlfQAhzkUXm"
+    }
+  ]
+}
